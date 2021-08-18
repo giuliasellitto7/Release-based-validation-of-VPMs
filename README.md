@@ -1,7 +1,9 @@
 # The Impact of Release-based Validation on Software Vulnerability Prediction Models
-Giulia Sellitto ([e-mail](g.sellitto21@studenti.unisa.it)) and Filomena Ferrucci ([e-mail](fferrucci@unisa.it)) \
-Department of Computer Science, University of Salerno, Italy \
-2021
+Giulia Sellitto and Filomena Ferrucci \
+University of Salerno, Italy \
+2021 
+
+[Talk Proposal](https://github.com/giuliasellitto7/maltesque2021/blob/main/paper.pdf) accepted at [MaLTeSQuE 2021](https://maltesque2021.github.io/)
 
 ___
 
